@@ -3,10 +3,6 @@
 The goal of `pybloomfiltermmap` is simple: to provide a fast, simple, scalable,
 correct library for Bloom Filters in Python.
 
-## Docs
-
-See <http://axiak.github.com/pybloomfiltermmap/>.
-
 ## Overview
 
 After you install, the interface to use is a cross between a file
